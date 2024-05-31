@@ -36,7 +36,7 @@ return(
             <Link href={resume} _hover={{textDecoration:"none"}}  target="_blank" download="fw20_1215-Shahzad-Malik-Resume"
             
             
-            ><Button _hover={{bg:"red",textDecoration:"none"}} onClick={()=>window.open("https://drive.google.com/file/d/1e2QT4Cq4lxy0TopvVhVvWopNOtmIvQ1J/view?usp=sharing","_blank") } bg="#ec5b53" color="white" fontSize="2xl" w="60%" mt="2rem" h="50px" textAlign="center" alignItems="center"
+            ><Button _hover={{bg:"red",textDecoration:"none"}} onClick={()=>window.open("https://drive.google.com/file/d/1tUKQKhl-iIYde-200RKR7YFavFw8x0E4/view?usp=sharing","_blank") } bg="#ec5b53" color="white" fontSize="2xl" w="60%" mt="2rem" h="50px" textAlign="center" alignItems="center"
             
             >Resume</Button></Link>
             {/* </Button> */}

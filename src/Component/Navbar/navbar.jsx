@@ -61,7 +61,7 @@ return (
            //   activeClass="active"
             //   spy={true}
            smooth={true} offset={-100} duration={300} to="contact" >Contact</Link></Button>
-           <Button  mr="50px" color="white" bg="none" fontSize="2xl" border="none"  variant='link' onClick={()=>window.open("https://drive.google.com/file/d/1e2QT4Cq4lxy0TopvVhVvWopNOtmIvQ1J/view?usp=sharing","_blank") }><a 
+           <Button  mr="50px" color="white" bg="none" fontSize="2xl" border="none"  variant='link' onClick={()=>window.open("https://drive.google.com/file/d/1tUKQKhl-iIYde-200RKR7YFavFw8x0E4/view?usp=sharing","_blank") }><a 
            //   activeClass="active"
              href={resume} target="_blank" download="fw20_1215-Shahzad-Malik-Resume" >Resume</a></Button>
             {/* <Button w="80px" mr="50px">DARK THEME</Button> */}
@@ -131,7 +131,7 @@ return (
                     <Button >Contact</Button>
                 </Link> 
                 {/* <Link href={resume}  target="_blank"> */}
-                    <Button onClick={()=>window.open("https://drive.google.com/file/d/1e2QT4Cq4lxy0TopvVhVvWopNOtmIvQ1J/view?usp=sharing","_blank") }  bg="#ec5b53"><a href={resume}  target="_blank" download="fw20_1215-Shahzad-Malik-Resume">Resume</a></Button>
+                    <Button onClick={()=>window.open("https://drive.google.com/file/d/1tUKQKhl-iIYde-200RKR7YFavFw8x0E4/view?usp=sharing","_blank") }  bg="#ec5b53"><a href={resume}  target="_blank" download="fw20_1215-Shahzad-Malik-Resume">Resume</a></Button>
                 {/* </Link> */}
             
         
